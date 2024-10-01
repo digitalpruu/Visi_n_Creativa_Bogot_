@@ -53,23 +53,23 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 316 5102028",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "visioncreativabogota@gmail.com",
         "icon": "/assets/images/email.png"
       },
       {
         "name": "Instagram",
-        "description": "@MiNegocio",
+        "description": "@vision.creativa.bta",
         "icon": "/assets/images/insta.png"
       },
       {
-        "name": "Facebook",
-        "description": "Mi Negocio",
-        "icon": "/assets/images/facebook.jpg"
+        "name": "Página Web",
+        "description": "https://tarjetadigitalbogota.com/",
+        "icon": "/assets/images/web.png"
       }
     ]
   },
