@@ -64,13 +64,20 @@
       {
         "name": "Instagram",
         "description": "@vision.creativa.bta",
-        "icon": "/assets/images/insta.png"
+        "icon": "/assets/images/insta.png",
+        "url": "https://www.instagram.com/vision.creativa.bta/"
       },
       {
         "name": "Página Web",
         "description": "https://tarjetadigitalbogota.com/",
         "url": "https://tarjetadigitalbogota.com/",
         "icon": "/assets/images/web.png"
+      },
+      {
+        "name": "Facebook",
+        "description": "Visión Creativa Bogotá",
+        "icon": "/assets/images/facebook.jpg",
+        "url": "https://www.facebook.com/VisionCreativaBogota"
       }
     ]
   },
